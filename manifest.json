@@ -1,15 +1,9 @@
 {
 	"name": "Unsolicited Stick Pics",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"manifest_version": 2,
 	"description": "Shows you the hottest stick pics when you least expect it.",
 	"author": "Dakota Ling",
-
-	"browser_action": {
-		"default_title": "Show me the stick pics!"
-	},
-
-	
 
 	"permissions": [
 		"activeTab"
